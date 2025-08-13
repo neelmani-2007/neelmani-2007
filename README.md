@@ -15,7 +15,48 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hey 👋What's Up?</h1>
+## Hi there! 👋
 
+I'm **Neelmani Mishra**, a passionate programmer and problem solver. I love coding and exploring new technologies that can help me create innovative solutions.
+
+## About Me
+
+I am a budding software developer with experience in C and C++. I enjoy tackling challenges through coding and am always eager to learn new skills. Currently, I am focused on enhancing my knowledge in data structures and algorithms.
+
+## Skills & Technologies
+
+c,cpp
+
+## Top Projects
+
+- [C_CODE-](https://github.com/neelmani-2007/C_CODE-): My first coding journey in C language. ⭐️ 0 stars
+- [CodeAlpha_Sudoku_Solver](https://github.com/neelmani-2007/CodeAlpha_Sudoku_Solver): A Sudoku Solver built using C++. ⭐️ 0 stars
+- [CodeAlpha_Login_Registration_system](https://github.com/neelmani-2007/CodeAlpha_Login_Registration_system): A basic Login and Registration System built using C++. ⭐️ 0 stars
+- [DSA-code--](https://github.com/neelmani-2007/DSA-code--): Welcome to my DSA (Data Structures and Algorithms) code in C++. ⭐️ 0 stars
+- [CodeAlpha_CGPA-_Calculator](https://github.com/neelmani-2007/CodeAlpha_CGPA-_Calculator): A simple CGPA Calculator built using C++. ⭐️ 0 stars
+
+## GitHub Stats
+
+🌟 **Public Repositories**: 12  
+👥 **Followers**: 2  
+👤 **Following**: 2  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neelmani-2007&show_icons=true&theme=radical)
+
+## Recent Activity
+
+1. **Created** [C_CODE-](https://github.com/neelmani-2007/C_CODE-) - This is my first coding journey in C language.  
+2. **Pushed** to [C_CODE-](https://github.com/neelmani-2007/C_CODE-) - Added initial files.  
+3. **Created** [CodeAlpha_Sudoku_Solver](https://github.com/neelmani-2007/CodeAlpha_Sudoku_Solver) - A Sudoku Solver built using C++.  
+4. **Created** [CodeAlpha_Login_Registration_system](https://github.com/neelmani-2007/CodeAlpha_Login_Registration_system) - A basic Login and Registration System built using C++.  
+5. **Created** [DSA-code--](https://github.com/neelmani-2007/DSA-code--) - Welcome to my DSA code in C++.
+
+## Latest Blog Posts
+
+Currently, I don't have any blog posts. But I am planning to share my insights and experiences in coding soon!
+
+## Connect with Me
+
+{}
 ###
 
 <div align="center">
