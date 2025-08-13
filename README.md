@@ -25,7 +25,7 @@ I am a budding software developer with experience in C and C++. I enjoy tackling
 
 ## Skills & Technologies
 
-c,cpp
+c,c++,html,css,js
 
 ## Top Projects
 
